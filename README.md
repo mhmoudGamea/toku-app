@@ -9,6 +9,6 @@ it's a very simple app but by this app i learn
 
 - practice on refactoring my code and make a reusable widgets.
 
-- the deference between required & @required
+- the difference between required & @required
 
 - 2 new widgets IntrinsicHeight(prefer to use SizedBox or Container instead as documentation say), VerticalDivider
